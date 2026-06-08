@@ -4,18 +4,18 @@
         <title>Mises à jour de Focus</title>
         <description>Les dernières mises à jour pour l'application Focus.</description>
         <item>
-            <title>Focus 1.0.1 (Build 24)</title>
-            <sparkle:version>24</sparkle:version>
+            <title>Focus 1.0.1 (Build 25)</title>
+            <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <pubDate>Sun, 07 Jun 2026 02:49:09 +0000</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/cr0r1/focus-releases/releases/tag/v1.0.1-24</sparkle:releaseNotesLink>
+            <pubDate>Mon, 08 Jun 2026 14:47:44 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/cr0r1/focus-releases/releases/tag/v1.0.1-25</sparkle:releaseNotesLink>
             
-            <enclosure url="https://github.com/cr0r1/focus-releases/releases/download/v1.0.1-24/Focus.zip"
-                       sparkle:version="24"
+            <enclosure url="https://github.com/cr0r1/focus-releases/releases/download/v1.0.1-25/Focus.zip"
+                       sparkle:version="25"
                        sparkle:shortVersionString="1.0.1"
-                       length="28748895"
+                       length="28766898"
                        type="application/octet-stream"
-                       sparkle:edSignature="SiBTC6+6maO2MqcYcaulSWJUA9MftL/h6CHAuOwi1QMwQ5DeFo9SdpNu5mHPzlqdR5JqeiuTWEMgvTFkhLtHCg==" />
+                       sparkle:edSignature="MVC+iZKVBiwgxDY9rbRaravkptSmoe82RRzY1M+uoQ6+zoAEbzRnioOw2e37a5P1twUAu+TJGQbtdhCg0VVwBg==" />
         </item>
     </channel>
 </rss>
