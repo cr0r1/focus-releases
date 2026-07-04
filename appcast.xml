@@ -4,18 +4,18 @@
         <title>Mises à jour de Focus</title>
         <description>Les dernières mises à jour pour l'application Focus.</description>
         <item>
-            <title>Focus 1.0.1 (Build 57)</title>
-            <sparkle:version>57</sparkle:version>
+            <title>Focus 1.0.1 (Build 58)</title>
+            <sparkle:version>58</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <pubDate>Sat, 04 Jul 2026 19:34:39 +0000</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/cr0r1/focus-releases/releases/tag/v1.0.1-57</sparkle:releaseNotesLink>
+            <pubDate>Sat, 04 Jul 2026 19:46:44 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/cr0r1/focus-releases/releases/tag/v1.0.1-58</sparkle:releaseNotesLink>
             
-            <enclosure url="https://github.com/cr0r1/focus-releases/releases/download/v1.0.1-57/Focus.zip"
-                       sparkle:version="57"
+            <enclosure url="https://github.com/cr0r1/focus-releases/releases/download/v1.0.1-58/Focus.zip"
+                       sparkle:version="58"
                        sparkle:shortVersionString="1.0.1"
-                       length="32657543"
+                       length="32669279"
                        type="application/octet-stream"
-                       sparkle:edSignature="ovtqxCt7SfqyfT05fYrpehtkXQ39sMQhHj1jWFbumGntmxw8qWRL9sqGgPPSJLw1zE2UEvPkRgIduC76WH73AA==" />
+                       sparkle:edSignature="gSOwd6L/l7GS7qIU/T0Cfzhms55T9b5Xm8/tRa7R72m1BF9Wfq+7EAFJdlEZMQ+nD9GlC/b6Uf7VMRKnMg/HDA==" />
         </item>
     </channel>
 </rss>
