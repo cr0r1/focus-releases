@@ -7,15 +7,15 @@
             <title>Focus 1.0.1 (Build 58)</title>
             <sparkle:version>58</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <pubDate>Sat, 04 Jul 2026 19:46:44 +0000</pubDate>
+            <pubDate>Thu, 16 Jul 2026 23:22:49 +0000</pubDate>
             <sparkle:releaseNotesLink>https://github.com/cr0r1/focus-releases/releases/tag/v1.0.1-58</sparkle:releaseNotesLink>
             
             <enclosure url="https://github.com/cr0r1/focus-releases/releases/download/v1.0.1-58/Focus.zip"
                        sparkle:version="58"
                        sparkle:shortVersionString="1.0.1"
-                       length="32669279"
+                       length="32679425"
                        type="application/octet-stream"
-                       sparkle:edSignature="gSOwd6L/l7GS7qIU/T0Cfzhms55T9b5Xm8/tRa7R72m1BF9Wfq+7EAFJdlEZMQ+nD9GlC/b6Uf7VMRKnMg/HDA==" />
+                       sparkle:edSignature="3IEUSE2TI/L5pd3NEOStG51cP6kNONS8kvU9W/2nEr8DS+2HlOv+ndIDceR5Zly+c9oQAXvMMyeQBJkJF1ApDQ==" />
         </item>
     </channel>
 </rss>
